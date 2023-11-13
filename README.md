@@ -9,7 +9,7 @@
 ### Backend:
  - PHP
  - MySQL
- - NginX
+ - Nginx
  - Linux
 
 
