@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GisVisualization.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisPoint.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisLineString.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisMultiPoint.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisGeometryCollection.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisGeometry.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisFactory.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisPolygon.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisMultiPolygon.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="GisMultiLineString.php" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+</dwsync>

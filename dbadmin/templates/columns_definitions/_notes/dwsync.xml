@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="column_definitions_form.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_length.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_null.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="table_fields_definitions.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_virtuality.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_adjust_privileges.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_attributes.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="transformation_option.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_indexes.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_default.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_type.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="move_column.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_name.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_auto_increment.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="partitions.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_comment.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="transformation.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="mime_type.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_extra.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+<file name="column_attribute.twig" server="18.191.66.127//var/www/" local="132292373240000000" remote="132292373240000000" Dst="2" />
+</dwsync>
